@@ -1,0 +1,73 @@
+# Visual Studio cache ve kullanıcı ayarları
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.ipch
+
+# Derleme çıktı dosyaları
+*.obj
+*.exe
+*.dll
+*.pdb
+*.idb
+*.lib
+*.tlb
+*.tlog
+*.cache
+*.ilk
+*.log
+*.pch
+*.manifest
+*.res
+*.tmp
+*.log
+*.vspscc
+
+# Build klasörleri
+x64/
+x86/
+Release/
+Debug/
+[Bb]in/
+[Oo]bj/
+ipch/
+
+# CMake geçici dosyaları
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Geliştirici araçları
+*.aps
+*.ncb
+*.opendb
+*.idb
+*.pdb
+*.db
+*.sbr
+
+# Backup dosyaları
+*.bak
+*.old
+*.tmp
+*.log
+
+# Çıktı klasörleri
+out/
+build/
+
+# Python sanal ortamları (olası)
+venv/
+__pycache__/
+*.pyc
