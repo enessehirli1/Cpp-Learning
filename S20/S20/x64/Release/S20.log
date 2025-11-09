@@ -1,8 +1,0 @@
-﻿cl : komut satırı  warning D9014: '44365' değeri '/W' için geçersiz; '1' varsayılıyor
-cl : komut satırı  warning D9025: '/W4', '/W1' ile geçersiz kılınıyor
-  S20.cpp
-  Kod üretiliyor
-  Previous IPDB not found, fall back to full compilation.
-  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Kodun üretilmesi tamamlandı
-  S20.vcxproj -> C:\Users\eness\source\repos\Learning\S20\x64\Release\S20.exe

@@ -1,2 +1,0 @@
-﻿  S9.cpp
-C:\Users\eness\source\repos\Learning\S9\S9.cpp(1,28): error C2338: static_assert failed: 'long must be 8 bytes'

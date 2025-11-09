@@ -1,4 +1,0 @@
-﻿cl : komut satırı  warning D9014: '44365' değeri '/W' için geçersiz; '1' varsayılıyor
-cl : komut satırı  warning D9025: '/W4', '/W1' ile geçersiz kılınıyor
-  S20.cpp
-  S20.vcxproj -> C:\Users\eness\source\repos\Learning\S20\x64\Debug\S20.exe

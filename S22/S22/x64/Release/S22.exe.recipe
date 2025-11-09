@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\eness\source\repos\Learning\S22\x64\Release\S22.exe</FullPath>
+      <FullPath>C:\Users\eness\source\repos\Learning\Move Semantics\x64\Release\S22.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

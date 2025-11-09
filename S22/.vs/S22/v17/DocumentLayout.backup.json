@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\",
+  "WorkspaceRootPath": "C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\S22\\S22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|solutionrelative:S22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\S22\\Point2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\Point2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|solutionrelative:Point2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\S22\\Creature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\Creature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|solutionrelative:Creature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\S22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0D5C20A-F308-4E37-80A4-6690C5D23FF5}|S22.vcxproj|solutionrelative:S22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,12 +33,20 @@
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Creature.h",
-              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Creature.h",
+              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\Creature.h",
               "RelativeDocumentMoniker": "Creature.h",
-              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Creature.h",
+              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\Creature.h",
               "RelativeToolTip": "Creature.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -47,26 +55,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Point2d.h",
-              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Point2d.h",
+              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\Point2d.h",
               "RelativeDocumentMoniker": "Point2d.h",
-              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\Point2d.h",
+              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\Point2d.h",
               "RelativeToolTip": "Point2d.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-13T11:57:51.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "S22.cpp",
-              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\S22.cpp",
+              "DocumentMoniker": "C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\S22.cpp",
               "RelativeDocumentMoniker": "S22.cpp",
-              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\S22\\S22.cpp",
+              "ToolTip": "C:\\Users\\eness\\source\\repos\\Learning\\Move Semantics\\S22.cpp",
               "RelativeToolTip": "S22.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-08T16:02:58.205Z",
               "EditorCaption": ""
